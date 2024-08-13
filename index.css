@@ -1,0 +1,88 @@
+body {
+    background-color: rgb(230, 248, 252);
+    font-family: "YS Text Regular Regular";
+    margin-top: 100px;
+    margin-left: 68px;
+    background-image: url(KV.png);
+    background-repeat: no-repeat;
+  background-position: top 256px right 68px;
+  background-size: 50%;
+}
+
+.header {
+font-size: 32px;
+font-weight: 500;
+line-height: 29px;
+margin-bottom: 72px;
+}
+
+.maintext {
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: -2%;
+    color: #3287FF;
+}
+.wecall{
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 65px;
+    letter-spacing: -2%;
+color: black;
+}
+
+h6{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    text-align: right;
+    margin-right: 68px;
+}
+
+input{
+    width: 515px;
+    box-sizing: border-box;
+    border: 1px solid #ffcc33;
+    border-radius: 20px;
+    padding:14px 32px 14px 32px;
+    margin: 8px;
+    background-color: white;
+}
+
+.policy {
+    color: #3287FF;
+}
+
+input.checkbox {
+    display: flex;
+    margin-left: 68px;
+}
+
+.checkbox{
+    width: 515px;
+    
+}
+
+.btn {
+    width: 150px;
+    height: 40px;
+    border-radius: 16px;
+    background-color: #ffcc33;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    line-height: 30px;
+    padding-top: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+img{
+float: right;
+width: 50%;
+height: auto;
+margin-right: 68px;
+margin-top: 60px;
+margin-left: 141px;
+}
+
